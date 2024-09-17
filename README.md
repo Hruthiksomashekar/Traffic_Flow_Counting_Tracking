@@ -19,14 +19,14 @@ Make sure you have Python v3.10 installed on your system. You can download it fr
 
    First, clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Hruthiksomashekar/Traffic_Flow_Tracking_Counting.git
+   git clone https://github.com/Hruthiksomashekar/Traffic_Flow_Counting_Tracking.git
 
 2. **Navigate to the Repo Directory**
 
     Change to the project directory:
     ```bash
    
-   cd Traffic_Flow_Tracking_Counting
+   cd Traffic_Flow_Counting_Tracking
 
 3. **Checkout the Flow_Tracking_Counting**  
 
